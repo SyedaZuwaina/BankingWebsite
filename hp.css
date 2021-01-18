@@ -1,0 +1,38 @@
+h3{
+  font-size: 50px;
+  text-align: center;
+  color: lavender;
+  text-shadow: 2px 2px #262626;
+}
+
+  h5{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+  text-shadow: 1px 1px #3b5278;
+
+}
+
+button{
+    font-size: 20px;
+    padding: 20px 20px;
+    justify-content: center;
+    background-color: lavender;
+    color: black;
+    text-decoration: none;
+    border-radius: 20px ;
+}
+
+
+  div{
+      
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .container{
+      padding-left: 500px;
+
+  }
+
+  

@@ -1,0 +1,40 @@
+#navbar {
+  overflow: hidden;
+  height: 5000px;
+  background-color: darkslateblue;
+  height: 50px;
+  font-size: 20px;
+  }
+    #navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    
+  
+  
+  }
+
+  .two{
+    margin-left: 10px;
+  }
+  .two:hover {
+    background-color: black;
+  
+  }
+  .three{
+    margin-left: 10px;
+  }
+  .three:hover{
+    background-color: black;
+  }
+  .one:hover{
+    background-color:black;
+  }
+
+
+
+
+  

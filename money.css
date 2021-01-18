@@ -1,0 +1,31 @@
+.container{
+    width: 400px;
+    
+    padding-left: 400px;
+}
+.container input{
+    width:100%;
+    clear: both;
+    height: 35px;
+}
+
+label{
+    padding: 20px;
+    justify-content: left;
+    font-weight: 100px;
+}
+
+.click{
+    width: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+form{
+    font-size: 20px;
+    font-weight:20px;
+    text-align: center;
+    margin: auto;
+    padding-top: 150px;
+}
