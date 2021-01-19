@@ -11,4 +11,5 @@ $password = "";
       die("Connection to this database failed due to" .
 mysqli_connect_error());
     }
+
 ?>
