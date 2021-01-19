@@ -14,8 +14,8 @@
 
 
 		<div id="navbar">
-  <a class="one" href="Homepage.php">Home</a>
-  <a class="two" href="index.php">View Customer</a>
+  <a class="one" href="index.php">Home</a>
+  <a class="two" href="Display.php">View Customer</a>
   <a class="three" href="History.php">Transaction History</a>
   </div>
 
